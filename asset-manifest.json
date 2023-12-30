@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/SNZZzz/static/css/main.d547fb1d.css",
-    "main.js": "/SNZZzz/static/js/main.eaac438c.js",
+    "main.js": "/SNZZzz/static/js/main.a7ff0367.js",
     "static/media/Lovepik_com-450149568-Sweet Birthday Cake Vector Illustration.png": "/SNZZzz/static/media/Lovepik_com-450149568-Sweet Birthday Cake Vector Illustration.7935144d9413f8411f44.png",
     "index.html": "/SNZZzz/index.html",
     "main.d547fb1d.css.map": "/SNZZzz/static/css/main.d547fb1d.css.map",
-    "main.eaac438c.js.map": "/SNZZzz/static/js/main.eaac438c.js.map"
+    "main.a7ff0367.js.map": "/SNZZzz/static/js/main.a7ff0367.js.map"
   },
   "entrypoints": [
     "static/css/main.d547fb1d.css",
-    "static/js/main.eaac438c.js"
+    "static/js/main.a7ff0367.js"
   ]
 }
